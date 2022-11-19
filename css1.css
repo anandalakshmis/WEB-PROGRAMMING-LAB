@@ -1,0 +1,28 @@
+.top-cont{
+background-color: brown;
+color: white;
+display: flex;
+justify-content: center;
+}
+
+.top-nav{
+background-color: beige;
+display: flex;
+justify-content: center;
+
+}
+
+.marq-cont{
+background-color: lavender;
+}
+
+
+.main-content{
+background-color: lavender;
+display: flex;
+
+}
+
+.main-content img{
+width: 700px;
+}
