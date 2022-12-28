@@ -1,0 +1,12 @@
+#hd{
+	font-family:Tahoma,sans-serif;
+	color:red;
+	background-color:yellow;
+}
+p{
+	background-color:#FFC0CB;
+	color:blue;
+}
+.center{text-align:center;color:orange;background-color:blue;}
+
+*{font-style:italic;}
